@@ -1,2 +1,2 @@
 # RecipeSearchReactApp
-GitHub Pages: https://jarodburchill.github.io/RecipeSearchReactApp/ 
+GitHub Pages: https://jarodburchill.github.io/RecipeSearchReactApp/
