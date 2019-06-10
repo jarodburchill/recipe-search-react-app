@@ -1,0 +1,21 @@
+    ======  ======
+    Time:2019-06-10 8:10:31 AM
+    Title: Initiate log
+    Message: 
+    Time:2019-06-10 8:10:31 AM
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:2019-06-10 8:10:31 AM
+    Title: Requesting EVT
+    Message: EVTP
+    Time:2019-06-10 8:10:31 AM
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:2019-06-10 8:10:31 AM
+    Title: Requesting Validation
+    Message: ILMValidate True
+    Time:2019-06-10 8:10:31 AM
+    Title: Requesting Validation
+    Message: ILMValidate True NotTrial
+    Entering constructor for: Telerik.CommonPackage.VSPackage
+    Entering Initialize() of: Telerik.CommonPackage.VSPackage
